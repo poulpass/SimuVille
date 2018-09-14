@@ -1,0 +1,8 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+#page_resultat, #page_simu, #ville2, #ville3{
+    display:none;
+}
